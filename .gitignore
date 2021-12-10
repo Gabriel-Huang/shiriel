@@ -2,3 +2,4 @@ _site/*
 _deploy/*
 Rakefile
 *.DS_Store*
+.jekyll-cache/
