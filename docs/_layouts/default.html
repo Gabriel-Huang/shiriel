@@ -49,8 +49,7 @@
                   {% assign loopindex = forloop.index | modulo: 2 %}
                   {% capture class %}
                     {% if loopindex == 0 %}
-                      <!-- timeline-inverted -->
-                      timeline-body
+                      timeline-inverted
                     {% endif %}
                   {% endcapture %}
 
@@ -71,7 +70,7 @@
 
                 {% endfor %}
 
-                  <li class="timeline-inverted">
+                  <!-- <li class="timeline-inverted">
                     <div class="timeline-image">
                       <img class="img-circle img-responsive" src="{{ site.baseurl }}/{{ site.career-img }}" alt="">
                     </div>
@@ -81,10 +80,10 @@
                           <h4 class="subheading">100</h4>
                       </div>
                       <div class="timeline-body">
-                          <p class="text">100 more to come</p>
+                          <p class="text-muted">Many more to come</p>
                       </div>
                   </div>
-                  </li>
+                  </li> -->
    
                 </ul>
 
