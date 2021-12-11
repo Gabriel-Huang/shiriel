@@ -1,0 +1,9 @@
+---
+layout: null
+title: 2021-11
+subtitle: Nerver Ending Coding
+image: "img/timeline/2021-11.jpg"
+---
+"每天忙到炸掉，\\
+但晚上call call \\
+从未断过"

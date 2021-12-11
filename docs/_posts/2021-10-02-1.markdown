@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2021-10-02
+subtitle: Squid Game
+image: "img/timeline/2021-10-02.jpg"
+---
+"咔嚓~"

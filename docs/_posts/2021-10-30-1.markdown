@@ -1,0 +1,8 @@
+---
+layout: null
+title: 2021-10-30
+subtitle: Sunrise
+image: "img/timeline/2021-10-30.jpg"
+---
+"虽然没有极光，\\
+但晚秋的日出也别有韵味"

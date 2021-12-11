@@ -1,8 +1,0 @@
----
-layout: null
-title: 2021-09-04
-subtitle: Our Story Begins
-image: "img/timeline/2.jpg"
----
-"那天，\\
-我们在一起了"
